@@ -57,8 +57,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>
-  We expect to open registration for this workshop on Wednesday, 1/10/2018.
-  <!-- <a href="">Register Now</a> -->
+  <!-- We expect to open registration for this workshop on Wednesday, 1/10/2018. -->
+  <a href="http://reg.conferences.dce.ufl.edu/SSP/1400066685">Register Now</a>
   <!-- Registration is now full -->
 </strong></p>
 
